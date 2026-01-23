@@ -1,5 +1,6 @@
 <h4 align="left">👋 Hi there!<br>💻 I’m a Computer Science student passionate about software-based technical projects.<br>🛠️ Skilled in Java, compiler technologies, and exploring Spring Boot.<br>📚 Currently learning AWS, ML and advancing my Spring Boot knowledge.<br>⚙️ Experienced with operating system simulations, paging concepts, and memory management.<br>🌐 Enjoy working on full-stack development and cloud-based solutions.<br>🔗 Eager to learn and explore more about blockchain technology and its applications.<br>🌱 Always learning and aiming to make complex concepts simple and effective.</h4>
 
+
 ###
 
 
