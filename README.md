@@ -1,9 +1,12 @@
 <h4 align="left">👋 Hi there!<br>💻 I’m a Computer Science student passionate about software-based technical projects.<br>🛠️ Skilled in Java, compiler technologies, and exploring Spring Boot.<br>📚 Currently learning AWS, ML and advancing my Spring Boot knowledge.<br>⚙️ Experienced with operating system simulations, paging concepts, and memory management.<br>🌐 Enjoy working on full-stack development and cloud-based solutions.<br>🔗 Eager to learn and explore more about blockchain technology and its applications.<br>🌱 Always learning and aiming to make complex concepts simple and effective.</h4>
 
-
 ###
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanuj2805&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tanuj2805&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanuj2805&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -54,6 +57,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Tanuj2805/Tanuj2805/output/snake.svg" alt="Snake animation" />
 
-
-###
+###  
