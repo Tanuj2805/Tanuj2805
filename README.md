@@ -1,21 +1,25 @@
 <div align="center">
 
-# 👋 Hello, I'm Tanuj Keshattiwar!
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=0AFFEF&vCenter=true&width=550&lines=👋+Hello,+I'm+Tanuj+Keshattiwar!" />
+</p>
+
 
 **Computer Engineering Student @ VIT Pune** | **Full-Stack Developer** | **Problem Solver**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved;5%E2%AD%90+SQL+HackerRank;Building+Scalable+Software+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;500%2B+DSA+Problems+Solved;5%E2%AD%90+SQL+HackerRank;Building+Scalable+Software+Solutions" />
+
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&height=2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" />
 
 ---
 
 ## 🚀 About Me
 
-**Computer Engineering student at VIT Pune (CGPA: 9.21)** with strong expertise in **Full-Stack Development**, **Machine Learning**, and **Competitive Programming**.  
-Institute Topper in **Diploma in Information Technology (95.16%)**, driven to build scalable, secure, and impactful software solutions.
+**Computer Engineering student at VIT Pune ** with strong expertise in **Full-Stack Development**, **Machine Learning**, and **Competitive Programming**.  
+Institute Topper in **Diploma in Information Technology **, driven to build scalable, secure, and impactful software solutions.
 
 - 🔭 **Currently:** Pursuing Bachelor's in Computer Engineering at VIT Pune  
 - 🌱 **Learning:** Advanced Spring Boot, Angular, Blockchain Technology  
@@ -150,7 +154,7 @@ Diploma in Information Technology | 2021 – 2024
 
 ![Snake animation](https://raw.githubusercontent.com/Tanuj2805/Tanuj2805/output/snake.svg)
 
-**Open to Software Development & Machine Learning Opportunities (June 2027)**  
+**Open to Software Development & Machine Learning Opportunities**  
 📧 `tanujkeshattiwar@gmail.com`
 
 </div>
